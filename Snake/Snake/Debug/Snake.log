@@ -1,0 +1,4 @@
+﻿  game.c
+C:\Users\student\Desktop\Snake\Snake\game.c(200,12): warning C4098: 'saveScore': 'void' function returning a value
+C:\Users\student\Desktop\Snake\Snake\game.c(219,11): warning C4098: 'openScore': 'void' function returning a value
+  Snake.vcxproj -> C:\Users\student\Desktop\Snake\Snake\Debug\Snake.exe
